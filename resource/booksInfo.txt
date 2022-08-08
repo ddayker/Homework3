@@ -1,0 +1,25 @@
+Father and Sons,Turgenev,Ivan,Sergeevich,Publisher№3,2020
+A Hero of Our Time,Lermontov,Mikhail,Urievich,Publisher№1,2022
+The Brother Karamazov,Dostoevsky,Fyodor,Mihailovich,Publisher№2,2021
+Doctor Zhivago,Pasternak,Boris,Leonidovich,Publisher№5,2015
+And Quiet Flows The Don,Sholokhov,Mikhail,Aleksandrovich,Publisher№3,2017
+Life and Fate,Grossman,Vasily,Semenovich,Publisher№7,2019
+The Funeral Party,Ulitskaya,Lyudmila,Evgenievna,Publisher№5,2020
+Eugene Onegin,Pushik,Alexander,Sergeevich,Publisher№2,2018
+Title_1,Surname_1,Name_1,Patronymic_1,Publisher_1,2022
+Title_2,Surname_2,Name_2,Patronymic_2,Publisher_2,2012
+Title_3,Surname_3,Name_3,Patronymic_3,Publisher_3,2013
+Title_4,Surname_4,Name_4,Patronymic_4,Publisher_4,2014
+Title_5,Surname_5,Name_5,Patronymic_5,Publisher_5,2015
+Title_6,Surname_6,Name_6,Patronymic_6,Publisher_6,2016
+Title_7,Surname_7,Name_7,Patronymic_7,Publisher_7,2017
+Title_8,Surname_8,Name_8,Patronymic_8,Publisher_8,2018
+Title_9,Surname_9,Name_9,Patronymic_9,Publisher_9,2019
+Title_10,Surname_10,Name_10,Patronymic_10,Publisher_10,2020
+Title_11,Surname_11,Name_11,Patronymic_11,Publisher_11,2011
+Title_12,Surname_12,Name_12,Patronymic_12,Publisher_12,2012
+Title_13,Surname_13,Name_13,Patronymic_13,Publisher_13,2013
+Title_14,Surname_14,Name_14,Patronymic_14,Publisher_14,2014
+Title_15,Surname_15,Name_15,Patronymic_15,Publisher_15,2015
+Title_16,Surname_16,Name_16,Patronymic_16,Publisher_16,2016
+Title_17,Surname_17,Name_17,Patronymic_17,Publisher_17,2017

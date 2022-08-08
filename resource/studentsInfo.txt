@@ -1,0 +1,10 @@
+Dayker,Evgeni,Gennadevich,18,1,10.0
+Ivanov,Ivan,Ivanovich,20,3,7.1
+Vasilev,Vasily,Vasileevich,30,4,5.4
+Romanov,Roman,Romanovich,19,2,9.2
+Petrov,Petr,Petrovich,60,1,8.0
+Pavlov,Pavel,Pavlovich,17,2,8.7
+Mitnik,Nikolay,Petrovich,90,3,7.0
+Kostin,Kostya,Ivanov,20,4,9.6
+Kim,Chin,Ien,100,4,6.5
+Vihor,Vitya,Viktorovich,18,2,7.5
